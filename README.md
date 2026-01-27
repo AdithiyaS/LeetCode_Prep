@@ -1,2 +1,3 @@
 # LeetCode_Prep
-Curated LeetCode solutions with clean code and patterns for interview prep.
+
+This repository contains C++ solutions to LeetCode problems I’m solving as part of daily prep.
